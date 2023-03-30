@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667140763 source:c:\users\vto01\desktop\calculadora sockets\servidorfinal\main.cpp
+	<winsock2.h>
+	<iostream>
+	<cstdlib>
+	<stdio.h>
+	<windns.h>
+	<math.h>
+	<ctype.h>
+	<fstream>
+	<ctime>
+	<string>
+
